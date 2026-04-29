@@ -17,15 +17,49 @@
 ---
 
 ## 🛠️ Tech Stack
+
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,postgres,redis,docker,git,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,angular,redux,nextjs,tailwind,materialui,bootstrap,gsap" />
 </p>
 
-**Frontend:** React | Next.js | TypeScript | Tailwind CSS  
-**Backend:** Node.js | Express | TypeScript  
-**Database:** PostgreSQL | Redis  
-**DevOps:** Docker | Git  
-**Architecture:** Microservices | Real-Time Systems | RBAC
+**Languages:** HTML | CSS | SASS | JavaScript | TypeScript  
+**Frameworks:** React JS | Angular | Next JS  
+**State Management:** Redux  
+**Styling:** Tailwind CSS | Material UI | Bootstrap | GSAP  
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,springboot,php" />
+</p>
+
+**Runtime:** Node.js | Express JS  
+**Backend Frameworks:** Spring Boot | PHP  
+
+### Database & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,redis,docker" />
+</p>
+
+**Databases:** PostgreSQL | MySQL | MongoDB | Firebase  
+**Caching:** Redis  
+**DevOps:** Docker  
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,js,typescript" />
+</p>
+
+**Programming Languages:** C | C++ | Java | Python | C# | JavaScript | TypeScript  
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" />
+</p>
+
+**Version Control:** Git | GitHub  
+**Development Tools:** VS Code | Postman | MongoDB Compass | Figma  
+**Deployment:** Vercel | Netlify | Docker  
 
 ---
 
@@ -47,30 +81,71 @@ Advanced admin dashboard for user management, activity monitoring, and platform 
 
 ### 🛍️ [IP-Shopy eCommerce Platform](https://github.com/faisalsiddiqui0690/IP-Shopy-Ecommerce)
 Scalable eCommerce customer website with SEO optimization and high performance.
-- **Tech:** Next.js, TypeScript, Tailwind CSS
+- **Tech:** Next.js, TypeScript, Tailwind CSS, Node.js, PostgreSQL
 - **Features:** Product browsing, Search, Cart, Checkout, User authentication, Order management
 
 ### 📊 [IP-Shopy Admin Portal](https://github.com/faisalsiddiqui0690/Ipshopy-Admin-Mobile-Portal-Frotnend)
 Mobile and desktop UI admin portal with customization features.
-- **Tech:** React, JavaScript, Responsive Design
+- **Tech:** React, JavaScript, Responsive Design, Redux
 - **Features:** Reusable components, Multi-platform support, Full customization
 
 ### 👥 [Employee Task Management](https://github.com/faisalsiddiqui0690/Employee-Task-Management)
 Full-stack task management system for teams.
-- **Tech:** TypeScript, React, Node.js
+- **Tech:** TypeScript, React, Node.js, MongoDB
 - **Features:** Task assignment, Progress tracking, Team collaboration
 
 ### 🏭 [IP-Shopy Admin Backend](https://github.com/faisalsiddiqui0690/Ipshopy-Admin-Mobile-Portal-Backend)
 Robust backend system for admin portal functionality.
-- **Tech:** Node.js, JavaScript, PostgreSQL
+- **Tech:** Node.js, JavaScript, PostgreSQL, Express JS
 - **Features:** Customization features, Mobile & Desktop support
 
-### 🌐 [Portfolio Website](https://github.com/faisalsiddiqui0690/Portfolio-Website-)
-Professional portfolio website showcasing skills and projects.
-- **Tech:** React.js
+---
 
-### 🎓 [Fake News Detection](https://github.com/faisalsiddiqui0690/fake-news-detection-main)
-Machine learning project for detecting fake news and misinformation.
+## 💼 Professional Experience
+
+### 🏢 **Software Developer** | IP Shopy PVT LTD
+**Feb 2025 - Present**
+
+As a Software Developer at IP Shopy, I am developing and maintaining a full-featured e-commerce platform with product management, order processing, user authentication, and payment integration. I have built multiple role-based admin panels for managing products, users, and content, along with a mobile-friendly admin UI for easy control from mobile devices. I also focus on creating clean dashboards, smooth workflows, and optimized database integration for high performance and scalability.
+
+**Skills:** HTML | CSS | JavaScript | React JS | TypeScript | Node JS | Express JS | PHP | Docker | Tailwind CSS | MongoDB | MySQL | Redux | Next JS
+
+---
+
+### 🏛️ **ERP Software Developer** | Shreeyash Engineering College
+**May 2025 - Feb 2025**
+
+As an ERP Software Developer at Shreeyash Engineering College, I am developing a full-featured ERP system to digitalize and streamline college operations. The system includes modules for admissions, fee payment, faculty and staff management, leave and payroll, transport mapping, and examinations, along with secure authentication, role-based permissions, and optimized database integration. I also focus on building user-friendly dashboards and search/filter functionalities to ensure smooth and efficient workflows for students, faculty, and administrators.
+
+**Skills:** HTML | CSS | JavaScript | React JS | TypeScript | Node JS | Express JS | PHP | Tailwind CSS | MongoDB | SQL | Redux | Next JS
+
+---
+
+### 🔧 **Fullstack Developer** | MK E-TECH Pvt Ltd
+**September 2024 - April 2025**
+
+Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.
+
+**Skills:** HTML | CSS | JavaScript | React JS | TypeScript | Node JS | Tailwind CSS | MongoDB | Redux | Next JS
+
+---
+
+### 💻 **Web / MERN Stack Developer** | CADDESK
+**January 2024 - August 2024**
+
+Developed full-stack web applications using MERN stack with focus on responsive design and backend optimization.
+
+**Skills:** React | Node.js | Express JS | MongoDB | JavaScript | Tailwind CSS
+
+---
+
+## 📚 Education
+
+### 🎓 **Bachelor of Technology - B.Tech (Computer Science)**
+**CSMSS College of Engineering**  
+**2021 - 2025**
+
+**Grade:** 9.0 CGPA
 
 ---
 
@@ -96,14 +171,17 @@ Machine learning project for detecting fake news and misinformation.
 ✅ Experience with microservices architecture and scalable backends  
 ✅ Proficient in DevOps with Docker containerization  
 ✅ Experience with eCommerce platforms and admin dashboards  
+✅ Full-stack MERN/MEAN development experience  
+✅ ERP system development and implementation  
 
 ---
 
-## 📚 Recent Work
-- 🎯 **Hookouts Dating App** - Real-time chat, location-based matching, subscription system
-- 💼 **Hookouts Admin Panel** - User management, analytics, and moderation tools
-- 🛍️ **IP-Shopy eCommerce** - Full-featured shopping platform with SEO optimization
-- 👥 **Employee Task Management** - Team collaboration and task tracking system
+## 📚 Current Work & Interests
+- 🚀 Scaling **Hookouts** platform for millions of users
+- 📚 Exploring advanced system design patterns
+- 🔧 Optimizing performance and database queries
+- 🎓 Continuous learning with new technologies
+- 🌐 Building enterprise-grade applications
 
 ---
 
@@ -116,14 +194,10 @@ Machine learning project for detecting fake news and misinformation.
 
 ---
 
-## 💡 What I'm Currently Doing
-- 🚀 Scaling **Hookouts** platform for millions of users
-- 📚 Exploring advanced system design patterns
-- 🔧 Optimizing performance and database queries
-- 🎓 Continuous learning and staying updated with latest tech
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faisalsiddiqui0690&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <em>⭐ If you find my projects interesting, feel free to star them! 🚀</em>
 </p>
