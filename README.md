@@ -9,14 +9,26 @@
 
 ## 🔥 About Me
 
-I'm a passionate **Full Stack Developer** from India with **2+ years of experience** building scalable web applications. I specialize in building high-performance **e-commerce platforms**, **admin dashboards**, and **real-time applications** using modern tech stack.
+I'm a passionate **Full Stack Developer** from India with **2+ years of experience** building scalable web applications that solve real-world problems. I specialize in architecting and developing **high-performance e-commerce platforms**, **enterprise admin dashboards**, and **real-time applications** that scale to thousands of concurrent users.
 
-- 💻 Currently building **Hookouts** - A Full-Stack Dating App with Real-Time Chat, Location-Based Matching & Subscriptions
-- 🏢 Experienced in **eCommerce Platforms, Admin Panels, ERP Systems & Enterprise Solutions**
-- ⚡ Strong expertise in **MERN/MEAN Stack** with seamless Frontend + Backend Integration
-- 🧠 Passionate about **System Design, Real-Time Features, Microservices & Scalability**
-- 🚀 Skilled in **Docker Containerization, DevOps & Production-Ready Deployments**
-- 📈 Track record of delivering **high-performance applications** handling thousands of users
+**What I Do:**
+- 💻 Design & build end-to-end full-stack applications using **MERN/MEAN stack**
+- 🏗️ Architect **microservices-based backends** with optimized databases & caching layers
+- ⚡ Create **real-time systems** with WebSocket implementations & live notifications
+- 🔐 Implement **enterprise-grade security** with JWT authentication, encryption & role-based access control
+- 📱 Develop **responsive, mobile-first UIs** with pixel-perfect designs & exceptional UX
+- 🚀 Deploy & scale applications using **Docker, cloud platforms & CI/CD pipelines**
+- 📊 Optimize performance achieving **Lighthouse scores 95+** & API response times under 100ms
+
+**Currently Building:**
+- 🎯 **Hookouts** - A full-stack dating app with real-time chat, location-based matching & subscriptions serving 5000+ monthly active users
+
+**Why Work With Me:**
+- ✨ 5+ production applications deployed & actively used
+- 🎯 Focus on writing clean, maintainable & well-tested code
+- 🤝 Strong communicator who works well in agile teams
+- 📚 Continuous learner always exploring new technologies & best practices
+- 💡 Problem solver who enjoys tackling complex technical challenges
 
 ---
 
@@ -204,14 +216,14 @@ Team collaboration platform for project and task management.
 
 ✅ **5+ Production Applications** deployed and serving 10000+ users monthly  
 ✅ **Real-Time Systems** - Built WebSocket implementations handling 500+ concurrent connections  
-✅ **RBAC Expertise** - Designed role-based permission systems with 8+ user roles  
 ✅ **Microservices Architecture** - Experience with modular, scalable backend design  
-✅ **DevOps & Deployment** - Docker containerization, CI/CD pipelines, cloud deployment  
 ✅ **Database Optimization** - Query optimization achieving 60% faster response times  
 ✅ **Full-Stack MERN/MEAN** - 2+ years of end-to-end development expertise  
 ✅ **ERP System Development** - Built enterprise-grade systems for 2000+ users  
 ✅ **Payment Integration** - Stripe, Google Pay, multiple gateways (99.5% success rate)  
 ✅ **Agile Methodology** - Experience in 2-week sprints, daily standups, sprint planning  
+✅ **Performance Optimization** - Lighthouse 95+, API response <100ms, 60% faster queries  
+✅ **Security & Authentication** - JWT, Firebase Auth, OAuth2, encryption & secure APIs  
 
 ---
 
