@@ -17,49 +17,19 @@
 ---
 
 ## 🛠️ Tech Stack
-
-### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,angular,redux,nextjs,tailwind,materialui,bootstrap,gsap" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,redux,nextjs,tailwind,materialui,bootstrap,gsap,nodejs,express,springboot,php,mysql,mongodb,firebase,postgres,redis,docker,c,cpp,java,python,cs,git,github,vscode,postman,figma,vercel,netlify" />
 </p>
 
-**Languages:** HTML | CSS | SASS | JavaScript | TypeScript  
-**Frameworks:** React JS | Angular | Next JS  
-**State Management:** Redux  
-**Styling:** Tailwind CSS | Material UI | Bootstrap | GSAP  
+**Languages:** HTML | CSS | SASS | JavaScript | TypeScript | C | C++ | Java | Python | C#  
 
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,springboot,php" />
-</p>
+**Frontend:** React JS | Angular | Next JS | Redux | Tailwind CSS | Material UI | Bootstrap | GSAP  
 
-**Runtime:** Node.js | Express JS  
-**Backend Frameworks:** Spring Boot | PHP  
+**Backend:** Node.js | Express JS | Spring Boot | PHP  
 
-### Database & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,redis,docker" />
-</p>
+**Databases:** PostgreSQL | MySQL | MongoDB | Firebase | Redis  
 
-**Databases:** PostgreSQL | MySQL | MongoDB | Firebase  
-**Caching:** Redis  
-**DevOps:** Docker  
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,js,typescript" />
-</p>
-
-**Programming Languages:** C | C++ | Java | Python | C# | JavaScript | TypeScript  
-
-### Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" />
-</p>
-
-**Version Control:** Git | GitHub  
-**Development Tools:** VS Code | Postman | MongoDB Compass | Figma  
-**Deployment:** Vercel | Netlify | Docker  
+**DevOps & Tools:** Docker | Git | GitHub | VS Code | Postman | MongoDB Compass | Figma | Vercel | Netlify  
 
 ---
 
