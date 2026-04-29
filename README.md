@@ -8,27 +8,11 @@
 ---
 
 ## 🔥 About Me
-
-I'm a passionate **Full Stack Developer** from India with **2+ years of experience** building scalable web applications that solve real-world problems. I specialize in architecting and developing **high-performance e-commerce platforms**, **enterprise admin dashboards**, and **real-time applications** that scale to thousands of concurrent users.
-
-**What I Do:**
-- 💻 Design & build end-to-end full-stack applications using **MERN/MEAN stack**
-- 🏗️ Architect **microservices-based backends** with optimized databases & caching layers
-- ⚡ Create **real-time systems** with WebSocket implementations & live notifications
-- 🔐 Implement **enterprise-grade security** with JWT authentication, encryption & role-based access control
-- 📱 Develop **responsive, mobile-first UIs** with pixel-perfect designs & exceptional UX
-- 🚀 Deploy & scale applications using **Docker, cloud platforms & CI/CD pipelines**
-- 📊 Optimize performance achieving **Lighthouse scores 95+** & API response times under 100ms
-
-**Currently Building:**
-- 🎯 **Hookouts** - A full-stack dating app with real-time chat, location-based matching & subscriptions serving 5000+ monthly active users
-
-**Why Work With Me:**
-- ✨ 5+ production applications deployed & actively used
-- 🎯 Focus on writing clean, maintainable & well-tested code
-- 🤝 Strong communicator who works well in agile teams
-- 📚 Continuous learner always exploring new technologies & best practices
-- 💡 Problem solver who enjoys tackling complex technical challenges
+- 💻 Building **Hookouts** - A Full-Stack Dating App with Real-Time Chat & Matching
+- 🏢 Experience with **Admin Panels, eCommerce Platforms, & Enterprise Solutions**
+- ⚡ Strong in **Frontend + Backend Integration** with scalable architecture
+- 🧠 Passionate about **System Design, Real-Time Features & Scalability**
+- 🚀 Experienced in building **production-ready applications** with Docker & containerization
 
 ---
 
