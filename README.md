@@ -115,23 +115,37 @@ Team collaboration platform.
 </p>
 
 ---
-
 ## 💼 Professional Experience
 
-### 🏢 Software Developer | IP Shopy
-- Built scalable eCommerce systems
-- Payment integrations
-- Admin dashboards
-- Performance optimization
-
-### 🏛️ ERP Developer
-- Built ERP for 2000+ users
-- Role-based systems
+### 🏢 Software Developer | IP Shopy PVT LTD  
+**Feb 2025 - Present**  
+- Developing and scaling a full-featured eCommerce platform with secure payments, user management, and admin systems.  
+- Building high-performance dashboards and optimizing backend systems for scalability and smooth workflows.  
 
 ---
 
+### 🏛️ ERP Software Developer | Shreeyash Engineering College  
+**May 2024 - Feb 2025**  
+- Built a complete ERP system to digitize college operations including admissions, payroll, and examinations.  
+- Implemented secure authentication, role-based access, and optimized database performance.  
+
+---
+
+### 🔧 Fullstack Developer | MK E-TECH Pvt Ltd  
+**Sept 2024 - April 2025**  
+- Developed scalable MERN stack applications with responsive UI and efficient backend APIs.  
+- Collaborated in agile teams to deliver high-performance and user-friendly web solutions.  
+
+---
+
+### 💻 Web / MERN Stack Developer | CADDESK  
+**Jan 2024 - Aug 2024**  
+- Built full-stack web applications with focus on responsive design and clean UI.  
+- Improved backend efficiency and reduced database load through optimization techniques.  
+
 ## 📚 Education
-B.Tech Computer Science (2021–2025)
+B.Tech Computer Science (2021–2025) 
+CGPA : 9.0 
 
 ---
 
