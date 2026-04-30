@@ -88,7 +88,7 @@ Advanced management dashboard for platform administration and user analytics.
   - 💬 Chat monitoring & AI-driven insights
   - 📈 Revenue tracking & subscription analytics
 
-### 🛍️ IP-Shopy eCommerce Platform
+### 🛍️ IP-Shopy eCommerce Platform | 🌐 https://ipshopy.com/
 Full-featured e-commerce customer portal with SEO optimization and mobile-first design.
 - **Tech Stack:** Next.js | TypeScript | Tailwind CSS | Node.js | PostgreSQL
 - **Features:** 
@@ -98,7 +98,7 @@ Full-featured e-commerce customer portal with SEO optimization and mobile-first 
   - 💰 Multiple payment gateway integration
   - 📱 Mobile-optimized & SEO-ready
 
-### 📊 IP-Shopy Admin Portal
+### 📊 IP-Shopy Admin Portal | ⚙️ https://console.ipshopy.com/
 Comprehensive admin interface for multi-platform management.
 - **Tech Stack:** React | TypeScript | Redux | Tailwind CSS
 - **Features:** 
@@ -112,24 +112,3 @@ Comprehensive admin interface for multi-platform management.
 Team collaboration platform for project and task management.
 - **Tech Stack:** TypeScript | React | Node.js | MongoDB
 - **Features:** Task assignment, Progress tracking, Team collaboration
-
----
-
-## 📊 GitHub Stats & Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faisalsiddiqui0690&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalsiddiqui0690&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
-## 🔥 Contribution Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=faisalsiddiqui0690&theme=radical&hide_border=true" alt="Contribution Streak"/>
-</p>
-
----
-
-## 💼 Professional Experience
-... (rest unchanged)
