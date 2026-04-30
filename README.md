@@ -68,7 +68,7 @@
 
 ## 🏆 Featured Projects
 
-### 🎯 Hookouts - Dating App | 🌐 https://hookouts.com/ | ⚙️ https://dash.hookouts.com/
+### 🎯 [Hookouts - Dating App](https://github.com/faisalsiddiqui0690/Hookouts-Website) | 🌐 https://hookouts.com/
 A cutting-edge full-stack dating platform with real-time messaging and advanced matching algorithms.
 - **Tech Stack:** Next.js | TypeScript | Node.js | PostgreSQL | Redis | Docker
 - **Key Features:** 
@@ -78,37 +78,66 @@ A cutting-edge full-stack dating platform with real-time messaging and advanced 
   - 🔐 Firebase/Google authentication with JWT tokens
 - **Repos:** [Website](https://github.com/faisalsiddiqui0690/Hookouts-Website) | [Admin Panel](https://github.com/faisalsiddiqui0690/Hookouts-Admin-Panel) | [Backend](https://github.com/faisalsiddiqui0690/Hookouts-Backend-)
 
-### 💼 Hookouts Admin Panel | ⚙️ https://dash.hookouts.com/
+### 💼 [Hookouts Admin Panel](https://github.com/faisalsiddiqui0690/Hookouts-Admin-Panel) | ⚙️ https://dash.hookouts.com/
 Advanced management dashboard for platform administration and user analytics.
 - **Tech Stack:** React | TypeScript | Node.js | PostgreSQL | Redis | Docker
 - **Features:** 
-  - 🔐 Role-Based Access Control (RBAC) with 5+ user roles
-  - 📊 Real-time analytics dashboard with 10+ metrics
-  - 👥 User moderation & content filtering system
-  - 💬 Chat monitoring & AI-driven insights
-  - 📈 Revenue tracking & subscription analytics
+  - 🔐 Role-Based Access Control (RBAC)
+  - 📊 Real-time analytics dashboard
+  - 👥 User moderation system
+  - 💬 Chat monitoring
+  - 📈 Revenue tracking
 
-### 🛍️ IP-Shopy eCommerce Platform | 🌐 https://ipshopy.com/
-Full-featured e-commerce customer portal with SEO optimization and mobile-first design.
-- **Tech Stack:** Next.js | TypeScript | Tailwind CSS | Node.js | PostgreSQL
-- **Features:** 
-  - 🏪 Advanced product catalog with 1000+ products
-  - 🔍 Smart search & filtering system
-  - 🛒 Shopping cart with order management
-  - 💰 Multiple payment gateway integration
-  - 📱 Mobile-optimized & SEO-ready
+### 🛍️ [IP-Shopy eCommerce Platform](https://github.com/faisalsiddiqui0690/IP-Shopy-Ecommerce) | 🌐 https://ipshopy.com/
+Full-featured e-commerce platform.
+- Smart search, cart, payments, SEO
 
-### 📊 IP-Shopy Admin Portal | ⚙️ https://console.ipshopy.com/
-Comprehensive admin interface for multi-platform management.
-- **Tech Stack:** React | TypeScript | Redux | Tailwind CSS
-- **Features:** 
-  - 📱 Mobile & desktop responsive UI
-  - 🎨 Reusable component architecture
-  - ⚙️ Full customization controls
-  - 📊 Product & inventory management
-  - 👨‍💼 Staff role management
+### 📊 [IP-Shopy Admin Portal](https://github.com/faisalsiddiqui0690/Ipshopy-Admin-Mobile-Portal-Frotnend) | ⚙️ https://console.ipshopy.com/
+Admin dashboard for IP-Shopy.
 
-### 👥 Employee Task Management
-Team collaboration platform for project and task management.
-- **Tech Stack:** TypeScript | React | Node.js | MongoDB
-- **Features:** Task assignment, Progress tracking, Team collaboration
+### 👥 [Employee Task Management](https://github.com/faisalsiddiqui0690/Employee-Task-Management)
+Team collaboration platform.
+
+---
+
+## 📊 GitHub Stats & Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faisalsiddiqui0690&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalsiddiqui0690&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=faisalsiddiqui0690&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Software Developer | IP Shopy
+- Built scalable eCommerce systems
+- Payment integrations
+- Admin dashboards
+- Performance optimization
+
+### 🏛️ ERP Developer
+- Built ERP for 2000+ users
+- Role-based systems
+
+---
+
+## 📚 Education
+B.Tech Computer Science (2021–2025)
+
+---
+
+## 📫 Connect
+<p align="center">
+  <a href="https://linkedin.com/in/faisal-siddiqui-b0a2b3">LinkedIn</a> |
+  <a href="mailto:faisalsiddiqui0690@gmail.com">Email</a> |
+  <a href="https://github.com/faisalsiddiqui0690">GitHub</a>
+</p>
